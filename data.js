@@ -88,7 +88,7 @@ const cursos = [
     "codigo": "PC-0202",
     "nombre": "Contabilidad Intermedia I",
     "anio": 2,
-    "ciclo": 3,
+    "ciclo": 1,
     "prerrequisitos": [
       "PC-0200"
     ]
@@ -97,7 +97,7 @@ const cursos = [
     "codigo": "DN-0103",
     "nombre": "Administración de proyectos y herramientas para el análisis de datos",
     "anio": 2,
-    "ciclo": 3,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0102"
     ]
@@ -106,7 +106,7 @@ const cursos = [
     "codigo": "PC-0240",
     "nombre": "Matemática financiera",
     "anio": 2,
-    "ciclo": 3,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0102",
       "MA-1022"
@@ -116,7 +116,7 @@ const cursos = [
     "codigo": "XS-0276",
     "nombre": "Estadística general I",
     "anio": 2,
-    "ciclo": 3,
+    "ciclo": 1,
     "prerrequisitos": [
       "MA-1021"
     ]
@@ -125,14 +125,14 @@ const cursos = [
     "codigo": "XE-0156",
     "nombre": "Introducción a la economía",
     "anio": 2,
-    "ciclo": 3,
+    "ciclo": 1,
     "prerrequisitos": []
   },
   {
     "codigo": "PC-0304",
     "nombre": "Contabilidad Intermedia II",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "PC-0202",
       "PC-0240"
@@ -142,7 +142,7 @@ const cursos = [
     "codigo": "DN-0104",
     "nombre": "Elementos fundamentales de la legislación empresarial",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0101"
     ]
@@ -151,7 +151,7 @@ const cursos = [
     "codigo": "DN-0340 ",
     "nombre": "Administración financiera I",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "PC-0240"
     ]
@@ -160,7 +160,7 @@ const cursos = [
     "codigo": "XS-0277 ",
     "nombre": "Estadística General II",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "XS-0276",
       "MA-1022"
@@ -170,7 +170,7 @@ const cursos = [
     "codigo": "DN-0123",
     "nombre": "Metodología de la investigación",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "XS-027"
     ]
@@ -179,7 +179,7 @@ const cursos = [
     "codigo": "SR-I",
     "nombre": "Seminario de realidad nacional I",
     "anio": 2,
-    "ciclo": 4,
+    "ciclo": 2,
     "prerrequisitos": [
       "EG-2"
     ]
@@ -188,7 +188,7 @@ const cursos = [
     "codigo": "DN-0320",
     "nombre": "Principios de mercadeo",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0340"
     ]
@@ -197,7 +197,7 @@ const cursos = [
     "codigo": "PC-0261",
     "nombre": "Legislación comercial, bancaria y financiera",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0104"
     ]
@@ -206,7 +206,7 @@ const cursos = [
     "codigo": "DN-0341",
     "nombre": "Administración financiera II",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0340"
     ]
@@ -215,7 +215,7 @@ const cursos = [
     "codigo": "DN-0105 ",
     "nombre": "Métodos cuantitativos para la toma de decisiones I",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0340",
       "XS-0277"
@@ -225,7 +225,7 @@ const cursos = [
     "codigo": "DN-0127",
     "nombre": "Principios de gerencia",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0340"
     ]
@@ -234,7 +234,7 @@ const cursos = [
     "codigo": "SR-II",
     "nombre": "Seminario de realidad nacional II",
     "anio": 3,
-    "ciclo": 5,
+    "ciclo": 1,
     "prerrequisitos": [
       "SR-I"
     ]
@@ -243,7 +243,7 @@ const cursos = [
     "codigo": "DN-0321",
     "nombre": "Publicidad y promoción",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0320"
     ]
@@ -252,7 +252,7 @@ const cursos = [
     "codigo": "PC-0260",
     "nombre": "Legislación laboral",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "PC-0261"
     ]
@@ -261,7 +261,7 @@ const cursos = [
     "codigo": "DN-0442",
     "nombre": "Administración financiera III",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0341"
     ]
@@ -270,7 +270,7 @@ const cursos = [
     "codigo": "DN-0110",
     "nombre": "Métodos cuantitativos para la toma de decisiones II",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0105"
     ]
@@ -279,7 +279,7 @@ const cursos = [
     "codigo": "DN-0106",
     "nombre": "Gestión del talento y conocimiento humano",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0202"
     ]
@@ -288,7 +288,7 @@ const cursos = [
     "codigo": "DN-0107",
     "nombre": "Economía y comercio internacional",
     "anio": 3,
-    "ciclo": 6,
+    "ciclo": 2,
     "prerrequisitos": [
       "XE-0156"
     ]
@@ -297,7 +297,7 @@ const cursos = [
     "codigo": "DN-0423",
     "nombre": "Investigación de mercados",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0321"
     ]
@@ -306,7 +306,7 @@ const cursos = [
     "codigo": "PC-0462",
     "nombre": "Legislación tributaria y aduanera",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "PC-0260",
       "PC-0304"
@@ -316,7 +316,7 @@ const cursos = [
     "codigo": "PC-0344 ",
     "nombre": "Formulación y evaluación de proyectos I",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0341"
     ]
@@ -325,7 +325,7 @@ const cursos = [
     "codigo": "DN-0496",
     "nombre": "Gerencia de Operaciones",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0110"
     ]
@@ -334,7 +334,7 @@ const cursos = [
     "codigo": "DN-0405",
     "nombre": "Emprendimiento y creación de empresas",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0106"
     ]
@@ -343,7 +343,7 @@ const cursos = [
     "codigo": "DN-0304",
     "nombre": "Liderazgo gerencial",
     "anio": 4,
-    "ciclo": 7,
+    "ciclo": 1,
     "prerrequisitos": [
       "DN-0106"
     ]
@@ -352,7 +352,7 @@ const cursos = [
     "codigo": "DN-0322",
     "nombre": "Ventas y distribución",
     "anio": 4,
-    "ciclo": 8,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0423"
     ]
@@ -361,7 +361,7 @@ const cursos = [
     "codigo": "DN-0109",
     "nombre": "Principios de auditoría financiera",
     "anio": 4,
-    "ciclo": 8,
+    "ciclo": 2,
     "prerrequisitos": [
       "PC-0304",
       "DN-0442"
@@ -371,7 +371,7 @@ const cursos = [
     "codigo": "DN-0108",
     "nombre": "Mercados bursátiles",
     "anio": 4,
-    "ciclo": 8,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0442",
       "PC-0344"
@@ -381,7 +381,7 @@ const cursos = [
     "codigo": "DN-0112",
     "nombre": "Gerencia de calidad",
     "anio": 4,
-    "ciclo": 8,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0496"
     ]
@@ -390,7 +390,7 @@ const cursos = [
     "codigo": "DN-0111",
     "nombre": "Gestión de la innovación y Estrategia competitiva",
     "anio": 4,
-    "ciclo": 8,
+    "ciclo": 2,
     "prerrequisitos": [
       "DN-0106"
     ]
