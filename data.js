@@ -148,7 +148,7 @@ const cursos = [
     ]
   },
   {
-    "codigo": "DN-0340 ",
+    "codigo": "DN-0340",
     "nombre": "Administración financiera I",
     "anio": 2,
     "ciclo": 2,
@@ -157,7 +157,7 @@ const cursos = [
     ]
   },
   {
-    "codigo": "XS-0277 ",
+    "codigo": "XS-0277",
     "nombre": "Estadística General II",
     "anio": 2,
     "ciclo": 2,
@@ -212,7 +212,7 @@ const cursos = [
     ]
   },
   {
-    "codigo": "DN-0105 ",
+    "codigo": "DN-0105",
     "nombre": "Métodos cuantitativos para la toma de decisiones I",
     "anio": 3,
     "ciclo": 1,
