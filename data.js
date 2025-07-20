@@ -313,7 +313,7 @@ const cursos = [
     ]
   },
   {
-    "codigo": "PC-0344 ",
+    "codigo": "PC-0344",
     "nombre": "Formulación y evaluación de proyectos I",
     "anio": 4,
     "ciclo": 1,
