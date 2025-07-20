@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e6f7ff;
+  color: #003366;
+  padding: 20px;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+#malla {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 20px 0;
+}
+
+.anio {
+  min-width: 280px;
+  padding: 10px;
+  background-color: #cceeff;
+  border-radius: 10px;
+}
+
+.ciclo {
+  margin-bottom: 10px;
+}
+
+.curso {
+  background-color: #ffffff;
+  border: 2px solid #0066cc;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.curso.bloqueado {
+  background-color: #cccccc;
+  border-color: #999999;
+  cursor: not-allowed;
+}
+
+.curso a {
+  font-size: 0.8em;
+  color: #004499;
+  text-decoration: underline;
+}
