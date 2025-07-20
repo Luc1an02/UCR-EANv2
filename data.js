@@ -1,0 +1,1 @@
+const cursos = [/* Aquí se insertaría toda la lista de cursos completa proporcionada por el usuario */];
