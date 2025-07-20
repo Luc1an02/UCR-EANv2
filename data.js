@@ -222,7 +222,7 @@ const cursos = [
     ]
   },
   {
-    "codigo": "DN-0127",
+    "codigo": "DN-0202",
     "nombre": "Principios de gerencia",
     "anio": 3,
     "ciclo": 1,
