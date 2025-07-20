@@ -172,7 +172,7 @@ const cursos = [
     "anio": 2,
     "ciclo": 2,
     "prerrequisitos": [
-      "XS-027"
+      "XS-0276"
     ]
   },
   {
